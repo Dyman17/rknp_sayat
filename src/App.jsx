@@ -225,7 +225,7 @@ export default function App() {
   return (
     <div className="app-container">
       <header>
-        <h1>GeoStop</h1>
+        <h1>Opti Spot</h1>
         <p>Оптимизация расположения транспортных остановок</p>
       </header>
 
@@ -423,8 +423,9 @@ export default function App() {
       )}
 
       <footer>
-        <p>GeoStop — Анализ геопространственных данных</p>
+        <p></p>
       </footer>
     </div>
   );
+
 }
